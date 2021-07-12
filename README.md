@@ -1,13 +1,6 @@
-# Open Source Ecommerce tcp client-server Shopping Cart System
+# Ecommerce tcp client-server Shopping Cart System
 
 **This is a sample project on Shopping Cart using Java SE and sqlite DB.** 
-
-**Sample Screenshot:**
-![Sample](shot(1).png)
-![Sample](shot(2).png)
-![Sample](shot(3).png)
-![Sample](shot(4).png)
-![Sample](shot(5).png)
 
 **Features:**
 - Bank Server
@@ -26,3 +19,10 @@
 - FOR PICTURES THERE ARE THREE DIFFERENT FOLDERS IN 'Project/src/products' AS PER CATEGORY. 
 - FOR NEW ENTRY, NEW PICTURES SHOULD   BE PLACED AS PER THEIR CATEGORY.
 - TO SIGN INTO ADMIN PANEL SIGN IN AS "username: admin, password: admin"
+
+**Sample Screenshot:**
+![Sample](shot(1).png)
+![Sample](shot(2).png)
+![Sample](shot(3).png)
+![Sample](shot(4).png)
+![Sample](shot(5).png)
