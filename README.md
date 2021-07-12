@@ -1,4 +1,4 @@
-# Open Source project on Shopping Cart 
+# Open Source Ecommerce client-server Shopping Cart System
 
 **This is a sample project on Shopping Cart using Java SE and sqlite DB.** 
 
